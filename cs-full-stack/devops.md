@@ -31,7 +31,7 @@ Get some administration knowledge of OSs
 - FreeBSD
 
 # Live in terminal
-## Terminal multipexers
+## Terminal multiplexers
 - tmux
 
 ## Tools in Terminal
@@ -118,7 +118,7 @@ Get some administration knowledge of OSs
 - Nginx
 - Caddy
 
-# Lern Infra as Code
+# Learn Infra as Code
 
 ## Service Mesh
 - lstio
@@ -151,7 +151,7 @@ Get some administration knowledge of OSs
 # Monitor software and infra
 
 ## Infra monitoring
--Prometeus
+- Prometeus
 - Grafana
 
 ## Applications Monitoring
@@ -170,7 +170,7 @@ Get some administration knowledge of OSs
 
 - Availability
 - Data Management
-- Design & Implimentation 
+- Design & Implementation 
 - Management & Monitoring
 
 **Keep your head high and learn more.**

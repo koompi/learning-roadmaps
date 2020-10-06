@@ -25,13 +25,13 @@
     - Box model
     - CSS Grid
     - Flex box
-- Responsibe Design & Media Queries
+- Responsive Design & Media Queries
 
 ## JavaScript
 - Syntax & Basic Constructs
 - Learn DOM Manipulation
 - Learn Fetch API/Ajax (XHR)
-- ES6+ and madular JavaScript
+- ES6+ and modular JavaScript
 - Understand the concepts
     - Hoisting
     - Event Bubbling
@@ -105,9 +105,9 @@ They both are good. Though, we will mainly use `npm`.
 - Notifications
 - Device orientation
 - Payments
-- Redentials
+- Credentials
 
-**Calculating, measurinFrontend Developer**
+**Calculating, Measuring Frontend Developer**
 - RAIL Model
 - Performance Metrics
 - Using Lighthouse
@@ -122,16 +122,18 @@ They both are good. Though, we will mainly use `npm`.
 - Apollo
 - Relay Modern
 
-## Stratic Site Generators
+## Static Site Generators
 - Hexo (Node.js)
 - Hugo (Go)
 - mkbook (Rust)
+- NextJS (React, Node.js)
+- Gatsby (React)
 
 ## Mobile Applications
 - Flutter
 
 ## Desktop Applications
-- Electon
+- Electron
 - Qt
 - Flutter
 
