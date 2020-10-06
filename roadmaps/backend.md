@@ -90,8 +90,9 @@ Basic knowledge of all of these would be great advantages
 Order of preferrence language which we use to build tools at [KOOMPI](https://koompi.org)
 - Rust
 - C++
-- Python
 - JavaScrip
+- Python
+- Go
 
 # Version Control Systems
 `What are they and why you should use one?
