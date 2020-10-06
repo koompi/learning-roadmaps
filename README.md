@@ -18,3 +18,7 @@ This course outlines will covered, for the moment;
 The course outline are not fully commpleted. It's still a work in progress. Please feel free to [Pull Request](https://github.com/koompi/full-stack-roadmap/pulls)
 
 Keep on learning, try harder, and keep moving forward, don't settle.`
+
+A friend told us to add this project to hacktoberfest. So here we go. 
+
+When starting this project, we didn't even thought of the month. 
