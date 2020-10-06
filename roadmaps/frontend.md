@@ -40,11 +40,14 @@
     - Shadow DOM
     - strict
 
-## Version Control Systems
+# Version Control Systems
+`What are they and why you should use one?
+
 - Basic usage of Git
     - Github
     - GitLab
     - Bitbucket
+
 
 # Web Security
 Basic knowledge of all of these would be great advantages
@@ -80,12 +83,7 @@ They both are good. Though, we will mainly use `npm`.
     - Mobx
 
 ## Modern CSS
-- Style components
-- CSS Modules
-
-## CSS Framework
-- AntDesign
-- Material UI
+- Style componentsFrontend Developer
 
 ## Testing Apps
 - Jest
@@ -97,7 +95,7 @@ They both are good. Though, we will mainly use `npm`.
 - TypeScrypt
 
 ## Progressive Web Apps
-**Learn the different web APIs used in PWAs**
+**Learn the different web APIs used in PWAs**Frontend Developer
 
 - Storage
 - Web Sockets
@@ -108,9 +106,7 @@ They both are good. Though, we will mainly use `npm`.
 - Payments
 - Redentials
 
-**Calculating, measuring, and improving performance**
-
-- PRPL Patter
+**Calculating, measurinFrontend Developer**
 - RAIL Model
 - Performance Metrics
 - Using Lighthouse
