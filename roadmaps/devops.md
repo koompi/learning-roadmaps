@@ -1,3 +1,5 @@
+# KOOMPI DevOps Course Outline
+
 # Programing Languages
 The key is to get some knowledge for automation
 - Rust

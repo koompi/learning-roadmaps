@@ -55,7 +55,8 @@ Basic knowledge of all of these would be great advantages
 - HTTPS
 - Content Security Policy
 - CORS 
-- OWASP Security
+- SSL/TLS
+- OWASP Security risk
 
 # Package Managers
 They both are good. Though, we will mainly use `npm`.
