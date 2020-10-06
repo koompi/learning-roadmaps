@@ -9,6 +9,12 @@ This course outlines will covered, for the moment;
 - [Full Stack Backend Developer](https://github.com/koompi/full-stack-roadmap/roadmaps/backend.md)
 - [Full Stack DevOps](https://github.com/koompi/full-stack-roadmap/roadmaps/devops.md)
 
+## Todos
+
+
+[ ] Selendra Full Stack Blockchain roadmap
+
+[ ] KOOMPI hardware engineering roadmap
 
 The course outline are not fully commpleted. It's still a work in progress. Please feel free to [Pull Request](https://github.com/koompi/full-stack-roadmap/pulls)
 
