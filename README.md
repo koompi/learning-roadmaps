@@ -1,3 +1,6 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+
 # full-stack-dev-roadmap
 A road map for developers to learn to be working at KOOMPI
 
