@@ -27,13 +27,13 @@
     - Box model
     - CSS Grid
     - Flex box
-- Responsibe Design & Media Queries
+- Responsive Design & Media Queries
 
 ## JavaScript
 - Syntax & Basic Constructs
 - Learn DOM Manipulation
 - Learn Fetch API/Ajax (XHR)
-- ES6+ and madular JavaScript
+- ES6+ and modular JavaScript
 - Understand the concepts
     - Hoisting
     - Event Bubbling
@@ -60,8 +60,8 @@ Basic knowledge of all of these would be great advantages
 
 - Terminal Usage
 - How OSs work in General
-- Procecss Management
-- Threadss & Concurrency
+- Process Management
+- Threads & Concurrency
 - Basic Terminal Commands
     - grep
     - awk
@@ -118,7 +118,7 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
 - ACID
 - Transactions
 - N+1 Problem
-- Database nomalzation 
+- Database normalization 
 - Indexes and how they work
 - Data replication
 - Sharding strategies
@@ -158,7 +158,7 @@ Hashing Algorithms
 - bcrypt
 
 ## Testing
-- Intergration testing
+- Integration testing
 - Unit testing
 - Functional testing
 
