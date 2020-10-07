@@ -8,9 +8,9 @@ The goal of this repo is to guide you to learn and using tools that both in the 
 
 This course outlines will covered, for the moment; 
 
-- [Full Stack Frontend Developer](https://github.com/koompi/full-stack-roadmap/blob/main/roadmaps/frontend.md)
-- [Full Stack Backend Developer](https://github.com/koompi/full-stack-roadmap/blob/main/roadmaps/backend.md)
-- [Full Stack DevOps](https://github.com/koompi/full-stack-roadmap/blob/main/roadmaps/devops.md)
+- [Full Stack Frontend Developer](./cs-full-stack/frontend.md)
+- [Full Stack Backend Developer](./cs-full-stack/backend.md)
+- [Full Stack DevOps](./cs-full-stack/devops.md)
 
 ## Todos
 
