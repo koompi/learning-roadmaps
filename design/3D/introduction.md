@@ -5,12 +5,12 @@
 
 # FAQ 
 ### 1. What is the most famous 3d software ?
--  [Blender](asd) (open source and highly recommend for Beginner)
--  [Autodest Maya]() (best for animation, modeling, and rendering).
--  [Cinema4d]() (best for motion graphic and 3d design).
--  [3ds max]() (best for rendering in architecture industry).
--  [Zbrush]() (best for modeling).
--  [huodini]() (best for VFX use in movie and game industry).
+-  [Blender](https://www.blender.org/) (open source and highly recommend for Beginner)
+-  [Autodest Maya](https://asean.autodesk.com/products/maya/overview) (best for animation, modeling, and rendering).
+-  [Cinema4d](https://www.maxon.net/en-us/products/cinema-4d/overview/) (best for motion graphic and 3d design).
+-  [3ds max](https://asean.autodesk.com/products/3ds-max/overview) (best for rendering in architecture industry).
+-  [Zbrush](https://pixologic.com/) (best for modeling).
+-  [huodini](https://www.sidefx.com/) (best for VFX use in movie and game industry).
 
 ### 2. What is 3d standard file ?
 - OBJ (ASCII variant is neutral, binary variant is proprietary)
