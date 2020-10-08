@@ -1,4 +1,4 @@
-# KOOMPI Computer Science
+# Computer Science
 
 In this directory, we include all three important part of computer science that help people ready to build project after completion following the outlines to find resources on the internet to master.
 
