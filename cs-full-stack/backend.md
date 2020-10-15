@@ -3,6 +3,7 @@
 ## Internet
 
 - How does the internet work?
+    - [How Web Works](https://github.com/vasanthk/how-web-works) - very detailed git repo
 - What is HTTP?
 - Browsers and hw they work?
 
@@ -89,9 +90,13 @@ Basic knowledge of all of these would be great advantages
 # Programing Languages
 Order of preferrence language which we use to build tools at [KOOMPI](https://koompi.org)
 - Rust
+    - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) e-book
+    - [Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html?ref=hackr.io)
 - C++
-- JavaScrip
+- JavaScript
 - Python
+    - [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw&t=9352s) - YouTube video
+    - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - free book with exercises
 - Go
 
 # Version Control Systems
@@ -109,6 +114,7 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
 
 # NoSQL Databases
 - MongoDB
+    - [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ) - YouTube Video
 - RethinkDB
 - CouchDB
 - DynamoDB
@@ -167,6 +173,7 @@ In itself is topic
 
 # Design and Development Principle
 - SOLID
+    - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - DigitalOcean article
 - KISS
 - YANGNI
 - DRY
