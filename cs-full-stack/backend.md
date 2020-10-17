@@ -105,6 +105,16 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
     - Gatsbyjs
     - Meteorjs
     - Nextjs
+- Python 
+    - Django
+    - Flask
+    - Pyramid
+    - Web2py
+    - Bottle
+    - CherryPy
+    - Falcon
+    - Tornado
+    - Dash
 
 # Version Control Systems
 `What are they and why you should use one?
