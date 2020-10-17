@@ -99,12 +99,12 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
     - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - free book with exercises
 - Go
 ## Frameworks
-### JavaScript
-- Expressjs
-- Nestjs
-- Gatsbyjs
-- Meteorjs
-- Nextjs
+- JavaScript
+    - Expressjs
+    - Nestjs
+    - Gatsbyjs
+    - Meteorjs
+    - Nextjs
 
 # Version Control Systems
 `What are they and why you should use one?
