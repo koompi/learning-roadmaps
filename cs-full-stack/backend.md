@@ -98,6 +98,13 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
     - [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw&t=9352s) - YouTube video
     - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - free book with exercises
 - Go
+## Frameworks
+### JavaScript
+- Expressjs
+- Nestjs
+- Gatsbyjs
+- Meteorjs
+- Nextjs
 
 # Version Control Systems
 `What are they and why you should use one?
@@ -206,14 +213,6 @@ In itself is topic
 ### Web Servers
 - Nginx
 - Caddy
-
-## Frameworks
-### JavaScript
-- Expressjs
-- Nestjs
-- Gatsbyjs
-- Meteorjs
-- Nextjs
 
 # Building for scale
 General topic that you should learn and care about for the sustainability of the products.
