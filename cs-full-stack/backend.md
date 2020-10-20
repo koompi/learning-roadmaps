@@ -98,6 +98,23 @@ Order of preferrence language which we use to build tools at [KOOMPI](https://ko
     - [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw&t=9352s) - YouTube video
     - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - free book with exercises
 - Go
+## Frameworks
+- JavaScript
+    - Expressjs
+    - Nestjs
+    - Gatsbyjs
+    - Meteorjs
+    - Nextjs
+- Python 
+    - Django
+    - Flask
+    - Pyramid
+    - Web2py
+    - Bottle
+    - CherryPy
+    - Falcon
+    - Tornado
+    - Dash
 
 # Version Control Systems
 `What are they and why you should use one?
