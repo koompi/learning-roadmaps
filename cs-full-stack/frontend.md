@@ -11,7 +11,7 @@
 - What is hosting?
 
 ## HTML
-- Learn the basics 
+- Learn the basics
 - Form and validations 
 - Conventions & Best practices
 - Accessibility
@@ -29,6 +29,11 @@
 
 ## JavaScript
 - Syntax & Basic Constructs
+    - Basic data structures
+    - Debugging
+    - Object Oriented Programming
+    - Functional Programming
+    - Algorithms
 - Learn DOM Manipulation
 - Learn Fetch API/Ajax (XHR)
 - ES6+ and modular JavaScript
