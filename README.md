@@ -10,11 +10,9 @@ This course outlines will covered, for the moment;
 - [Full Stack Frontend Developer](./cs-full-stack/frontend.md)
 - [Full Stack Backend Developer](./cs-full-stack/backend.md)
 - [Full Stack DevOps](./cs-full-stack/devops.md)
+- [Selendra Full Stack Blockchain roadmap](./blockchain/blockchain.md)
 
 ## Todos
-
-[ ] Selendra Full Stack Blockchain roadmap
-
 [ ] KOOMPI hardware engineering roadmap
 
 The course outline are not fully commpleted. It's still a work in progress. Please feel free to [Pull Request](https://github.com/koompi/full-stack-roadmap/pulls)
